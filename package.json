@@ -1,5 +1,5 @@
 {
-  "name": "voucher-js",
+  "name": "es6-template",
   "version": "1.0.0",
   "description": "es6 webpack babel es5 ",
   "main": "src/index.js",

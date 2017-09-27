@@ -1,2 +1,3 @@
-import voJs from './dist/index'
-console.log(voJs);
+import ltJs from './dist/index'
+
+console.log(ltJs.a())
